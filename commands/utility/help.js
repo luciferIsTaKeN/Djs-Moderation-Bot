@@ -33,7 +33,7 @@ if(message.content.toLowerCase() === `${prefix}help`){
     .setDescription("A feature rich discord.js moderation Bot to help you out controling moderation activities")
     .addField(`**👑Moderation**`, `[ \`${prefix}help mod\` ]`, true)
     .addField(`**⚙️Utility**`, `[ \`${prefix}help utility\` ]`, true)
-    .setFooter("© Felix_PlaYz#1000")
+    .setFooter("© Łᵾȼīӻēɍ#0827")
     .setTimestamp()
 
 message.channel.send(log);
